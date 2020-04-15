@@ -4,7 +4,7 @@ import (
 	"encoding/json"
 	"errors"
 	"fmt"
-	"github.com/federicoleon/bookstore_utils-go/rest_errors"
+	"github.com/james077/bookstore_utils-go/rest_errors"
 	"github.com/mercadolibre/golang-restclient/rest"
 	"net/http"
 	"strconv"
